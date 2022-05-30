@@ -1,0 +1,5 @@
+site_name: TiniBox
+
+plugins:
+    - search # built-in search must be always activated
+    - awesome-pages
